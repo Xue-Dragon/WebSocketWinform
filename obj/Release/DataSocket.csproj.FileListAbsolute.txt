@@ -1,0 +1,16 @@
+D:\03_dev\src\DataSocket\bin\Release\DataSocket.exe.config
+D:\03_dev\src\DataSocket\bin\Release\DataSocket.exe
+D:\03_dev\src\DataSocket\bin\Release\DataSocket.pdb
+D:\03_dev\src\DataSocket\bin\Release\FTFrame.Base.dll
+D:\03_dev\src\DataSocket\bin\Release\FTFrame.Data.dll
+D:\03_dev\src\DataSocket\bin\Release\FTFrame.dll
+D:\03_dev\src\DataSocket\bin\Release\FTFrame.Tool.dll
+D:\03_dev\src\DataSocket\bin\Release\IBM.Data.DB2.dll
+D:\03_dev\src\DataSocket\obj\Release\DataSocket.MainForm.resources
+D:\03_dev\src\DataSocket\obj\Release\DataSocket.Properties.Resources.resources
+D:\03_dev\src\DataSocket\obj\Release\DataSocket.csproj.GenerateResource.cache
+D:\03_dev\src\DataSocket\obj\Release\DataSocket.csproj.CoreCompileInputs.cache
+D:\03_dev\src\DataSocket\obj\Release\DataSocket.csproj.CopyComplete
+D:\03_dev\src\DataSocket\obj\Release\DataSocket.exe
+D:\03_dev\src\DataSocket\obj\Release\DataSocket.pdb
+D:\03_dev\src\DataSocket\bin\Release\Fleck.dll
